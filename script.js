@@ -46,7 +46,7 @@ function checkBirthday() {
         document.getElementById("message1");
 
 
-    if (answer === "21/12/03") {
+    if (answer === "27/06/26") {
 
         message.textContent = "";
 
